@@ -1,0 +1,49 @@
+# Data files (too large for GitHub)
+data/
+*.csv
+*.h5
+*.pkl
+*.joblib
+
+# Trained models (use Git LFS or HuggingFace Hub instead)
+*.keras
+*.pt
+*.pth
+model_architecture
+gnn_model_architecture
+StackedGNN_Architecture
+best_pm25_model.keras
+LSTM_imputation_model.keras
+lstm_pollutant_imputation_model.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Output artifacts
+outputs/
+*.tiff
+*.png
+x

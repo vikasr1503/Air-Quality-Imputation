@@ -7,7 +7,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange?logo=pytorch)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://tensorflow.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-blue?logo=scikit-learn)](https://scikit-learn.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Paper accepted:** *"Improving Air Quality Data by Treating Missing Values with Machine Learning and Spatio-Temporal Variables"* — IGARSS 2025 (IEEE International Geoscience and Remote Sensing Symposium)
 
